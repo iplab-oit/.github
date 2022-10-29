@@ -9,7 +9,7 @@
 - [ソイチャレ2022](https://github.com/iplab-oit/soy-challe-2022)
 ### 謎解き
 - [謎解き2022](https://github.com/iplab-oit/prj-mystery-2022)
-- [tOITe-ipbl](https://github.com/iplab-oit/tOITe-ipbl)
+- [tOITe-ipbl](https://github.com/iplab-oit/tOITe-iplab)
 - 外部
   - [MediapipeClass](https://github.com/jinno-oit/mediapipeDemo) (@jinno-oit)
 ### 農林水産系
