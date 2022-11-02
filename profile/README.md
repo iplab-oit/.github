@@ -7,6 +7,7 @@
 ## プロジェクト
 ### ソイチャレ
 - [ソイチャレ2022](https://github.com/iplab-oit/soy-challe-2022)
+- [360度画像の切り抜き](https://github.com/iplab-oit/cropImageFrom360cam)
 ### 謎解き
 - [謎解き2022](https://github.com/iplab-oit/prj-mystery-2022)
 - [tOITe-ipbl](https://github.com/iplab-oit/tOITe-iplab)
