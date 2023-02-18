@@ -3,6 +3,7 @@
 ## まとめ
 - [main](https://github.com/iplab-oit/main)
 - [議事録](https://github.com/iplab-oit/minutes)
+- [研究計画](https://github.com/iplab-oit/Plan-for-Research)
 
 ## プロジェクト
 ### ソイチャレ
