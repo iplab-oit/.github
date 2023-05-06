@@ -1,9 +1,14 @@
 # 画像処理研究室@大阪工業大学
 
-## まとめ
+## 研究室活動
+### まとめ
 - [main](https://github.com/iplab-oit/main)
 - [議事録](https://github.com/iplab-oit/minutes)
 - [研究計画](https://github.com/iplab-oit/Plan-for-Research)
+
+### その他勉強
+- [文章の書き方](https://github.com/iplab-oit/how-to-write-paper)
+- [画像統合基礎](https://github.com/iplab-oit/Image-Fusion-Basics)
 
 ## プロジェクト
 ### ソイチャレ
@@ -17,6 +22,9 @@
 ### 農林水産系
 - [環農水研](https://github.com/iplab-oit/knsk)
 - [虫の卵カウント](https://github.com/iplab-oit/Project_InsectEggs)
+### 照明色推定
+- [色恒常性まとめ](https://github.com/iplab-oit/Color-Constancy-Basics)
+- [自前データセットの作成（自然なシーン）](https://github.com/iplab-oit/Color-Constancy-Dataset-Multi-Color-Illuminant-in-Natural-Scene-)
 
 ## デモ
 - [X線可視化デモ](https://github.com/iplab-oit/HighContrastToneMappingDemo)
