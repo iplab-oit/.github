@@ -14,6 +14,7 @@
 ### ソイチャレ
 - [ソイチャレ2022](https://github.com/iplab-oit/soy-challe-2022)
 - [360度画像の切り抜き](https://github.com/iplab-oit/cropImageFrom360cam)
+- [ランダムフォレストを利用した構図判定](https://github.com/iplab-oit/detect-Photo-Spots-From-360Cam)
 ### 謎解き
 - [謎解き2022](https://github.com/iplab-oit/prj-mystery-2022)
 - [tOITe-ipbl](https://github.com/iplab-oit/tOITe-iplab)
