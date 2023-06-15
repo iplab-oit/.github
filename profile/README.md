@@ -19,7 +19,7 @@
 - [謎解き2022](https://github.com/iplab-oit/prj-mystery-2022)
 - [tOITe-ipbl](https://github.com/iplab-oit/tOITe-iplab)
 - 外部
-  - [MediapipeClass](https://github.com/jinno-oit/mediapipeDemo) (@jinno-oit)
+  - [MediapipeClass](https://github.com/jinno-oit/mediapipe_samples) (@jinno-oit)
 ### 農林水産系
 - [環農水研](https://github.com/iplab-oit/knsk)
 - [虫の卵カウント](https://github.com/iplab-oit/Project_InsectEggs)
