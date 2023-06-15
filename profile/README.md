@@ -8,6 +8,7 @@
 
 ### その他勉強
 - [文章の書き方](https://github.com/iplab-oit/how-to-write-paper)
+- [Python練習](https://github.com/iplab-oit/Practice-for-Python)
 - [画像統合基礎](https://github.com/iplab-oit/Image-Fusion-Basics)
 
 ## プロジェクト
