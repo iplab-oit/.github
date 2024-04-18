@@ -5,6 +5,7 @@
 - [main](https://github.com/iplab-oit/main)
 - [議事録](https://github.com/iplab-oit/minutes)
 - [研究計画](https://github.com/iplab-oit/Plan-for-Research)
+- [備品管理](https://github.com/iplab-oit/Equipment-Management/tree/main)
 
 ### その他勉強
 - [文章の書き方](https://github.com/iplab-oit/how-to-write-paper)
